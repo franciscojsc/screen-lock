@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Screen Lock</string>
+    <string name="permission_required">Permission to lock the screen is required for the correct operation of the application</string>
 </resources>
